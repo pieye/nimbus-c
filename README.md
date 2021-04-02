@@ -1,7 +1,8 @@
-# nimbus-c
+# Nimbus-C
 
 ## Introduction
-If you have question, open an issue or read the official [documentation](https://nimbus-docs.readthedocs.io/en/latest/index.html).
+here you can find our prepared [Raspberry Pi OS (buster)](https://cloud.pieye.org/index.php/s/nimbus3D) images.
+Fruthermore here is the official [documentation](https://nimbus-docs.readthedocs.io/en/latest/index.html).
 
 ## Adding a custom processing stage
 ### C-Interface
