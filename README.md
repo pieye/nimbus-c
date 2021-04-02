@@ -1,5 +1,8 @@
 # nimbus-c
 
+## Introduction
+If you have question, open an issue or read the official [documentation](https://nimbus-docs.readthedocs.io/en/latest/index.html).
+
 ## Adding a custom processing stage
 ### C-Interface
 After having built and installed nimbus-userland (make install), all libraries are installed under /usr/local/lib, all headers are installed under /usr/local/include The header nimbusPreprocessInterface.h contains a low level c interface to libnimbus-preprocessing.so. This is useful when you want to integrate the nimbus 3d with external applications.
